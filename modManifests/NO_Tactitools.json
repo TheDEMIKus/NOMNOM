@@ -20,6 +20,25 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NOTT_PR_0.7.0.3.zip",
+      "version": "0.7.0.3",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.0.3/NOTT_PR_0.7.0.3.zip",
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "no-autopilot-mod",
+          "version": "4.17.3"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
+    {
       "fileName": "NOTT_PR_0.7.0.2.zip",
       "version": "0.7.0.2",
       "category": "preRelease",
@@ -115,5 +134,5 @@
       ]
     }
   ],
-  "downloadCount": 3617
+  "downloadCount": 3623
 }

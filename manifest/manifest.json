@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 211
+    "downloadCount": 215
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 656
+    "downloadCount": 657
   },
   {
     "id": "LiveryManager",
@@ -1144,6 +1144,25 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "NOTT_PR_0.7.0.3.zip",
+        "version": "0.7.0.3",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.7.0.3/NOTT_PR_0.7.0.3.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "no-autopilot-mod",
+            "version": "4.17.3"
+          },
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
         "fileName": "NOTT_PR_0.7.0.2.zip",
         "version": "0.7.0.2",
         "category": "preRelease",
@@ -1239,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3617
+    "downloadCount": 3623
   },
   {
     "id": "no-autopilot-mod",
@@ -1464,7 +1483,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2550
+    "downloadCount": 2552
   },
   {
     "id": "NOBlackBox",
@@ -1518,7 +1537,7 @@
         ]
       }
     ],
-    "downloadCount": 1958
+    "downloadCount": 1959
   },
   {
     "id": "NOCursorOverride",
@@ -1550,7 +1569,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 195
+    "downloadCount": 196
   },
   {
     "id": "NOFFB",
@@ -1643,7 +1662,7 @@
         ]
       }
     ],
-    "downloadCount": 440
+    "downloadCount": 441
   },
   {
     "id": "NOLiveryPlus",
@@ -1832,7 +1851,7 @@
         ]
       }
     ],
-    "downloadCount": 1012
+    "downloadCount": 1013
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1883,7 +1902,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 437
+    "downloadCount": 439
   },
   {
     "id": "pixy_voice",
@@ -2015,7 +2034,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116605
+    "downloadCount": 116608
   },
   {
     "id": "skyeye_voice",
@@ -2152,7 +2171,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 364
+    "downloadCount": 366
   },
   {
     "id": "WeatherController",
@@ -2216,7 +2235,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 745
+    "downloadCount": 747
   },
   {
     "id": "YawOnMouse",

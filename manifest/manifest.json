@@ -926,7 +926,7 @@
         ]
       }
     ],
-    "downloadCount": 193
+    "downloadCount": 194
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3708
+    "downloadCount": 3709
   },
   {
     "id": "no-autopilot-mod",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116629
+    "downloadCount": 116633
   },
   {
     "id": "skyeye_voice",
@@ -2186,7 +2186,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 387
+    "downloadCount": 388
   },
   {
     "id": "WeatherController",

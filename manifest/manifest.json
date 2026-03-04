@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 596
+    "downloadCount": 597
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 270
+    "downloadCount": 272
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 682
+    "downloadCount": 683
   },
   {
     "id": "LiveryManager",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3794
+    "downloadCount": 3795
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2664
+    "downloadCount": 2667
   },
   {
     "id": "NOBlackBox",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1073
+    "downloadCount": 1074
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1917,7 +1917,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 452
+    "downloadCount": 453
   },
   {
     "id": "pixy_voice",
@@ -2016,7 +2016,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 169
+    "downloadCount": 170
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2115,7 +2115,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 55
+    "downloadCount": 56
   },
   {
     "id": "UnitCopyPaste",
@@ -2300,6 +2300,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 301
+    "downloadCount": 303
   }
 ]

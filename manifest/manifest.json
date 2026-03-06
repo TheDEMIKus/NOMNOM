@@ -62,7 +62,48 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 109
+    "downloadCount": 110
+  },
+  {
+    "id": "AtomicFramework",
+    "displayName": "AtomicFramework",
+    "description": "Modding framework and utilities for Nuclear Option. Note: The NOMNOM compatible version has some features removed.",
+    "tags": [
+      "mod",
+      "QoL",
+      "multiplayer"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/TYKUHN2/AtomicFramework"
+      },
+      {
+        "name": "bugs",
+        "url": "https://github.com/TYKUHN2/AtomicFramework/issues"
+      },
+      {
+        "name": "security",
+        "url": "https://github.com/TYKUHN2/AtomicFramework/security"
+      }
+    ],
+    "authors": [
+      "TYKUHN2"
+    ],
+    "githubOwner": "TYKUHN2",
+    "githubRepoName": "AtomicFramework",
+    "autoUpdateArtifacts": "False",
+    "artifacts": [
+      {
+        "fileName": "AtomicFramework-NOMNOM.7z",
+        "version": "0.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32.6",
+        "downloadUrl": "https://github.com/TYKUHN2/AtomicFramework/releases/download/v0.2.0/AtomicFramework-NOMNOM.7z",
+        "hash": null
+      }
+    ]
   },
   {
     "id": "bepinex-soundmod",
@@ -167,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 335
+    "downloadCount": 337
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 717
+    "downloadCount": 718
   },
   {
     "id": "LiveryManager",
@@ -926,7 +967,7 @@
         ]
       }
     ],
-    "downloadCount": 199
+    "downloadCount": 200
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1258,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 3924
+    "downloadCount": 3927
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2780
+    "downloadCount": 2782
   },
   {
     "id": "NOBlackBox",
@@ -1552,7 +1593,7 @@
         ]
       }
     ],
-    "downloadCount": 2019
+    "downloadCount": 2020
   },
   {
     "id": "NOCursorOverride",
@@ -1866,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1129
+    "downloadCount": 1130
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1918,6 +1959,49 @@
       }
     ],
     "downloadCount": 468
+  },
+  {
+    "id": "NuclearVOIP",
+    "displayName": "NuclearVOIP",
+    "description": "Adds in game voice chat to Nuclear Option",
+    "tags": [
+      "mod",
+      "QoL",
+      "multiplayer"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/TYKUHN2/NuclearVOIP"
+      },
+      {
+        "name": "bugs",
+        "url": "https://github.com/TYKUHN2/NuclearVOIP/issues"
+      }
+    ],
+    "authors": [
+      "TYKUHN2"
+    ],
+    "githubOwner": "TYKUHN2",
+    "githubRepoName": "NuclearVOIP",
+    "autoUpdateArtifacts": "False",
+    "artifacts": [
+      {
+        "fileName": "NuclearVOIP-NOMNOM.7z",
+        "version": "0.5.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32.6",
+        "downloadUrl": "https://github.com/TYKUHN2/NuclearVOIP/releases/download/v0.5.0/NuclearVOIP-NOMNOM.7z",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "AtomicFramework",
+            "version": "0.2.0"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "pixy_voice",
@@ -1988,6 +2072,45 @@
     "downloadCount": 0
   },
   {
+    "id": "QoL",
+    "displayName": "Quality of Life",
+    "description": "A major overhaul mod for Nuclear Option. QoL adds custom weapons, units, features, plus hundreds of fixes and parity adjustments.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/qqMwyr2qxR"
+      }
+    ],
+    "authors": [
+      "Offiry"
+    ],
+    "githubOwner": "offiry0",
+    "githubRepoName": "qol-public",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "qol_1.1.6.3b1.zip",
+        "version": "1.1.6.3",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/offiry0/qol-public/releases/download/1.1.6.3/qol_1.1.6.3b1.zip",
+        "hash": "",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
     "id": "RepairProgress",
     "displayName": "Repair Progress",
     "description": "Visualize building damage and repair status with health bars. See repair progress in real-time.",
@@ -2016,7 +2139,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 197
+    "downloadCount": 198
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2049,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116763
+    "downloadCount": 116764
   },
   {
     "id": "skyeye_voice",
@@ -2115,7 +2238,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 65
+    "downloadCount": 66
   },
   {
     "id": "UnitCopyPaste",
@@ -2186,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 447
+    "downloadCount": 448
   },
   {
     "id": "WeatherController",
@@ -2217,7 +2340,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 66
+    "downloadCount": 67
   },
   {
     "id": "WSOYappinator",

@@ -32,12 +32,12 @@
       "gameVersion": "0.32.6",
       "downloadUrl": "https://github.com/TYKUHN2/NuclearVOIP/releases/download/v0.5.0/NuclearVOIP-NOMNOM.7z",
       "hash": null,
-	  "dependencies": [
-		{
-			"id": "AtomicFramework",
-			"version": "0.2.0"
-		}
-	  ]
+      "dependencies": [
+        {
+          "id": "AtomicFramework",
+          "version": "0.2.0"
+        }
+      ]
     }
   ]
 }

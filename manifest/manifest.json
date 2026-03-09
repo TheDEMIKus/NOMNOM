@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 404
+    "downloadCount": 406
   },
   {
     "id": "galaxy2_voice",
@@ -967,7 +967,7 @@
         ]
       }
     ],
-    "downloadCount": 207
+    "downloadCount": 208
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4060
+    "downloadCount": 4062
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2894
+    "downloadCount": 2896
   },
   {
     "id": "NOBlackBox",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116847
+    "downloadCount": 116848
   },
   {
     "id": "skyeye_voice",
@@ -2309,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 502
+    "downloadCount": 503
   },
   {
     "id": "WeatherController",
@@ -2340,7 +2340,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 85
+    "downloadCount": 87
   },
   {
     "id": "WSOYappinator",

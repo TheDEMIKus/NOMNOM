@@ -1,0 +1,38 @@
+{
+  "id": "ThirdFaction",
+  "displayName": "Third Faction",
+  "description": "Adds a third PMC (Private Military Company) faction to multiplayer and singleplayer missions. PMC units fight independently with their own objectives, airbases, and vehicle deployments.",
+  "tags": [
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/ThirdFaction"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "ThirdFaction",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ThirdFaction.dll",
+      "version": "1.2.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.2.0/ThirdFaction.dll"
+    },
+    {
+      "fileName": "ThirdFaction.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
+    }
+  ]
+}

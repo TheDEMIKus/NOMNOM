@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 421
+    "downloadCount": 422
   },
   {
     "id": "AircraftWaypoints",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 551
+    "downloadCount": 552
   },
   {
     "id": "galaxy2_voice",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 4319
+    "downloadCount": 4321
   },
   {
     "id": "no-autopilot-mod",
@@ -2106,7 +2106,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3117
+    "downloadCount": 3119
   },
   {
     "id": "NOBlackBox",
@@ -2675,7 +2675,7 @@
         ]
       }
     ],
-    "downloadCount": 302
+    "downloadCount": 304
   },
   {
     "id": "RepairProgress",
@@ -2844,7 +2844,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 61
+    "downloadCount": 62
   },
   {
     "id": "UnitCopyPaste",

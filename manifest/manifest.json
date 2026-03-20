@@ -2001,7 +2001,7 @@
         ]
       }
     ],
-    "downloadCount": 4407
+    "downloadCount": 4408
   },
   {
     "id": "no-autopilot-mod",
@@ -2327,7 +2327,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 248
+    "downloadCount": 249
   },
   {
     "id": "NOFFB",
@@ -2609,7 +2609,7 @@
         ]
       }
     ],
-    "downloadCount": 1321
+    "downloadCount": 1322
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2660,7 +2660,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 561
+    "downloadCount": 562
   },
   {
     "id": "NuclearVOIP",
@@ -3068,7 +3068,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 651
+    "downloadCount": 652
   },
   {
     "id": "WeatherController",

@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 748
+    "downloadCount": 749
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 862
+    "downloadCount": 863
   },
   {
     "id": "LiveryManager",
@@ -2001,7 +2001,7 @@
         ]
       }
     ],
-    "downloadCount": 4399
+    "downloadCount": 4400
   },
   {
     "id": "no-autopilot-mod",
@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3186
+    "downloadCount": 3187
   },
   {
     "id": "NOBlackBox",
@@ -2810,7 +2810,7 @@
         ]
       }
     ],
-    "downloadCount": 368
+    "downloadCount": 369
   },
   {
     "id": "RepairProgress",
@@ -2874,7 +2874,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117071
+    "downloadCount": 117072
   },
   {
     "id": "skyeye_voice",

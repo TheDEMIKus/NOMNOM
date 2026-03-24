@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 284
+    "downloadCount": 290
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 284
+    "downloadCount": 290
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -2136,7 +2136,7 @@
         ]
       }
     ],
-    "downloadCount": 4485
+    "downloadCount": 4486
   },
   {
     "id": "no-autopilot-mod",
@@ -3230,7 +3230,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 681
+    "downloadCount": 682
   },
   {
     "id": "WeatherController",

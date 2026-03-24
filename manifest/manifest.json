@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 290
+    "downloadCount": 294
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 290
+    "downloadCount": 294
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -328,7 +328,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 632
+    "downloadCount": 633
   },
   {
     "id": "galaxy2_voice",
@@ -2795,7 +2795,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 572
+    "downloadCount": 573
   },
   {
     "id": "NuclearVOIP",
@@ -2945,7 +2945,7 @@
         ]
       }
     ],
-    "downloadCount": 459
+    "downloadCount": 461
   },
   {
     "id": "RepairProgress",
@@ -2976,7 +2976,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 353
+    "downloadCount": 354
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3230,7 +3230,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 682
+    "downloadCount": 683
   },
   {
     "id": "WeatherController",
@@ -3261,7 +3261,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 136
+    "downloadCount": 137
   },
   {
     "id": "WSOYappinator",

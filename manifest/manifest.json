@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 519
+    "downloadCount": 520
   },
   {
     "id": "AircraftWaypoints",
@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 652
+    "downloadCount": 653
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 652
+    "downloadCount": 653
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -328,7 +328,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 738
+    "downloadCount": 739
   },
   {
     "id": "galaxy2_voice",
@@ -496,7 +496,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 971
+    "downloadCount": 972
   },
   {
     "id": "LiveryManager",
@@ -2744,7 +2744,7 @@
         ]
       }
     ],
-    "downloadCount": 1429
+    "downloadCount": 1431
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2945,7 +2945,7 @@
         ]
       }
     ],
-    "downloadCount": 602
+    "downloadCount": 603
   },
   {
     "id": "RepairProgress",
@@ -2976,7 +2976,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 407
+    "downloadCount": 408
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3009,7 +3009,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117317
+    "downloadCount": 117319
   },
   {
     "id": "skyeye_voice",

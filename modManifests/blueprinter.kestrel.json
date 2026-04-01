@@ -36,7 +36,7 @@
       "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
       "extends": {
         "id": "com.nikkorap.blueprinter",
-        "version": "1.8.16"
+        "version": "1.8.17"
       }
     }
   ],

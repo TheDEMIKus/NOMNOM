@@ -1,0 +1,31 @@
+{
+  "id": "uuvr",
+  "displayName": "uuvr",
+  "description": "Universal VR mod for Unity games",
+  "tags": [
+    "mod","vr"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Raicuparta/uuvr"
+    }
+  ],
+  "authors": [
+    "Raicuparta"
+  ],
+  "githubOwner": "Raicuparta",
+  "githubRepoName": "uuvr",
+  "autoUpdateArtifacts": "False",
+  "artifacts": [
+    {
+      "fileName": "uuvr-mono-modern.zip",
+      "version": "0.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/Raicuparta/uuvr/releases/download/v0.4.0/uuvr-mono-modern.zip",
+      "hash": "sha256:cd9d46e7f6d9d641034ba564617ba51204ca8f26991f7dc36d03cabce81cfea6"
+    }
+  ]
+}

@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 635
+    "downloadCount": 640
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1023
+    "downloadCount": 1028
   },
   {
     "id": "AircraftWaypoints",
@@ -104,7 +104,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 561
+    "downloadCount": 563
   },
   {
     "id": "aryx.f16m",
@@ -160,7 +160,7 @@
         }
       }
     ],
-    "downloadCount": 775
+    "downloadCount": 919
   },
   {
     "id": "aryx.mig15",
@@ -203,7 +203,7 @@
         }
       }
     ],
-    "downloadCount": 401
+    "downloadCount": 439
   },
   {
     "id": "AtomicFramework",
@@ -276,7 +276,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1189
+    "downloadCount": 1192
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -353,7 +353,7 @@
         }
       }
     ],
-    "downloadCount": 3090
+    "downloadCount": 3135
   },
   {
     "id": "bote",
@@ -440,7 +440,7 @@
         }
       }
     ],
-    "downloadCount": 3557
+    "downloadCount": 3617
   },
   {
     "id": "CameraPresets",
@@ -473,7 +473,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 63
+    "downloadCount": 66
   },
   {
     "id": "CargoHookFree",
@@ -505,7 +505,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 280
+    "downloadCount": 282
   },
   {
     "id": "com.basicGrowl",
@@ -584,7 +584,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 5192
+    "downloadCount": 5258
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -626,7 +626,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 476
+    "downloadCount": 481
   },
   {
     "id": "FrontlineMap",
@@ -684,7 +684,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 1814
+    "downloadCount": 1831
   },
   {
     "id": "galaxy2_voice",
@@ -839,7 +839,7 @@
         }
       }
     ],
-    "downloadCount": 3216
+    "downloadCount": 3259
   },
   {
     "id": "klawshout_voice",
@@ -905,7 +905,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1525
+    "downloadCount": 1527
   },
   {
     "id": "LiveryManager",
@@ -989,7 +989,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 167
+    "downloadCount": 168
   },
   {
     "id": "LocalizationPatch.French",
@@ -1256,7 +1256,7 @@
         ]
       }
     ],
-    "downloadCount": 440
+    "downloadCount": 441
   },
   {
     "id": "LocalizationPatch.German",
@@ -1523,7 +1523,7 @@
         ]
       }
     ],
-    "downloadCount": 437
+    "downloadCount": 438
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -1790,7 +1790,7 @@
         ]
       }
     ],
-    "downloadCount": 420
+    "downloadCount": 421
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -2111,7 +2111,7 @@
         ]
       }
     ],
-    "downloadCount": 293
+    "downloadCount": 294
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -2442,7 +2442,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 438
+    "downloadCount": 440
   },
   {
     "id": "MFDVideoPlayer",
@@ -2611,7 +2611,7 @@
         ]
       }
     ],
-    "downloadCount": 5605
+    "downloadCount": 5628
   },
   {
     "id": "no-autopilot-mod",
@@ -2851,7 +2851,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 4331
+    "downloadCount": 4353
   },
   {
     "id": "NOBlackBox",
@@ -2905,7 +2905,7 @@
         ]
       }
     ],
-    "downloadCount": 2485
+    "downloadCount": 2487
   },
   {
     "id": "NOCursorOverride",
@@ -3045,7 +3045,7 @@
         ]
       }
     ],
-    "downloadCount": 847
+    "downloadCount": 852
   },
   {
     "id": "NOLiveryPlus",
@@ -3234,7 +3234,7 @@
         ]
       }
     ],
-    "downloadCount": 1994
+    "downloadCount": 2007
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3285,7 +3285,45 @@
         "hash": null
       }
     ],
-    "downloadCount": 845
+    "downloadCount": 857
+  },
+  {
+    "id": "NuclearOptionVRFix",
+    "displayName": "FeelSoMoon",
+    "description": "Nuclear Option Camera Fix for uuvr",
+    "tags": [
+      "mod",
+      "vr"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/FeelSoMoon/NuclearOptionVRFix"
+      }
+    ],
+    "authors": [
+      "FeelSoMoon"
+    ],
+    "githubOwner": "FeelSoMoon",
+    "githubRepoName": "NuclearOptionVRFix",
+    "autoUpdateArtifacts": "False",
+    "artifacts": [
+      {
+        "fileName": "NuclearOptionVRFix.zip",
+        "version": "1.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/7ep3s/NuclearOptionVRFix/releases/download/1.0/NuclearOptionVRFix.zip",
+        "hash": "sha256:b3ccd77e1bb78dcb42ee5b1797063252721db4027a7da117ff9914a457a3de9d",
+        "dependencies": [
+          {
+            "id": "uuvr",
+            "version": "0.4.0"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "NuclearVOIP",
@@ -3436,7 +3474,7 @@
         ]
       }
     ],
-    "downloadCount": 212
+    "downloadCount": 253
   },
   {
     "id": "RepairProgress",
@@ -3467,7 +3505,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 838
+    "downloadCount": 848
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3500,7 +3538,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 118029
+    "downloadCount": 118038
   },
   {
     "id": "skyeye_voice",
@@ -3616,7 +3654,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
       }
     ],
-    "downloadCount": 3
+    "downloadCount": 5
   },
   {
     "id": "ThirdFaction",
@@ -3691,7 +3729,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 405
+    "downloadCount": 410
   },
   {
     "id": "UnitCopyPaste",
@@ -3734,6 +3772,38 @@
     "downloadCount": 136
   },
   {
+    "id": "uuvr",
+    "displayName": "uuvr",
+    "description": "Universal VR mod for Unity games",
+    "tags": [
+      "mod",
+      "vr"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Raicuparta/uuvr"
+      }
+    ],
+    "authors": [
+      "Raicuparta"
+    ],
+    "githubOwner": "Raicuparta",
+    "githubRepoName": "uuvr",
+    "autoUpdateArtifacts": "False",
+    "artifacts": [
+      {
+        "fileName": "uuvr-mono-modern.zip",
+        "version": "0.4.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/Raicuparta/uuvr/releases/download/v0.4.0/uuvr-mono-modern.zip",
+        "hash": "sha256:cd9d46e7f6d9d641034ba564617ba51204ca8f26991f7dc36d03cabce81cfea6"
+      }
+    ]
+  },
+  {
     "id": "VehicleControl",
     "displayName": "Vehicle Control",
     "description": "Possess and directly control ground vehicles, ships, and other units. Includes camera system and targeting.",
@@ -3762,7 +3832,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1228
+    "downloadCount": 1231
   },
   {
     "id": "WeatherController",
@@ -3793,7 +3863,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 330
+    "downloadCount": 332
   },
   {
     "id": "WSOYappinator",
@@ -3826,7 +3896,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1176
+    "downloadCount": 1179
   },
   {
     "id": "YawOnMouse",

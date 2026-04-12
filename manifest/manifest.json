@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 988
+    "downloadCount": 990
   },
   {
     "id": "AIAircraftLimit",
@@ -251,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 5431
+    "downloadCount": 5451
   },
   {
     "id": "aryx.mig15",
@@ -294,7 +294,7 @@
         }
       }
     ],
-    "downloadCount": 1735
+    "downloadCount": 1745
   },
   {
     "id": "AtomicFramework",
@@ -444,7 +444,7 @@
         }
       }
     ],
-    "downloadCount": 4338
+    "downloadCount": 4342
   },
   {
     "id": "bote",
@@ -531,7 +531,7 @@
         }
       }
     ],
-    "downloadCount": 5108
+    "downloadCount": 5120
   },
   {
     "id": "CameraPresets",
@@ -675,7 +675,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 7557
+    "downloadCount": 7569
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -775,7 +775,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 2475
+    "downloadCount": 2479
   },
   {
     "id": "galaxy2_voice",
@@ -930,7 +930,7 @@
         }
       }
     ],
-    "downloadCount": 4471
+    "downloadCount": 4477
   },
   {
     "id": "klawshout_voice",
@@ -2702,7 +2702,7 @@
         ]
       }
     ],
-    "downloadCount": 6125
+    "downloadCount": 6127
   },
   {
     "id": "no-autopilot-mod",
@@ -2942,7 +2942,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 4847
+    "downloadCount": 4849
   },
   {
     "id": "NOBlackBox",
@@ -2996,7 +2996,7 @@
         ]
       }
     ],
-    "downloadCount": 2624
+    "downloadCount": 2625
   },
   {
     "id": "NOCursorOverride",
@@ -3369,7 +3369,7 @@
         ]
       }
     ],
-    "downloadCount": 2416
+    "downloadCount": 2417
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3609,7 +3609,7 @@
         ]
       }
     ],
-    "downloadCount": 1170
+    "downloadCount": 1174
   },
   {
     "id": "RepairProgress",
@@ -3673,7 +3673,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 118459
+    "downloadCount": 118462
   },
   {
     "id": "skyeye_voice",

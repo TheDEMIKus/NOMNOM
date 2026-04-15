@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1556
+    "downloadCount": 1557
   },
   {
     "id": "AircraftWaypoints",
@@ -251,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 7102
+    "downloadCount": 7118
   },
   {
     "id": "aryx.mig15",
@@ -294,7 +294,7 @@
         }
       }
     ],
-    "downloadCount": 2501
+    "downloadCount": 2515
   },
   {
     "id": "AtomicFramework",
@@ -367,7 +367,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1587
+    "downloadCount": 1588
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -444,7 +444,7 @@
         }
       }
     ],
-    "downloadCount": 5055
+    "downloadCount": 5064
   },
   {
     "id": "bote",
@@ -531,7 +531,7 @@
         }
       }
     ],
-    "downloadCount": 5893
+    "downloadCount": 5897
   },
   {
     "id": "CameraPresets",
@@ -605,7 +605,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 683
+    "downloadCount": 684
   },
   {
     "id": "com.basicGrowl",
@@ -630,6 +630,46 @@
         "category": "Release"
       }
     ]
+  },
+  {
+    "id": "com.JUSTJ7780.globalsoundreplacerno",
+    "displayName": "Global Sound Replacer NO",
+    "description": "Replaces in-game sounds with custom audio packs, including radio chatter, hot-swappable sound packs, and shuffle support.",
+    "tags": [
+      "Flavor",
+      "QoL",
+      "Sound"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://discord.com/channels/909034158205059082/1478979322466271232"
+      }
+    ],
+    "authors": [
+      "JUSTJ7780"
+    ],
+    "githubOwner": "JUSTJ7780",
+    "githubRepoName": "NO-QOL",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "GAS.Global.Audio.Replacer.zip",
+        "version": "5.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/JUSTJ7780/NO-QOL/releases/download/5.0.0/GAS.Global.Audio.Replacer.zip",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 156
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -684,7 +724,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 8865
+    "downloadCount": 8876
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -798,7 +838,7 @@
         "downloadUrl": "https://github.com/dikkadev/NuclearUnits/releases/download/v1.2.0/NuclearUnits-v1.2.0.7z"
       }
     ],
-    "downloadCount": 13
+    "downloadCount": 15
   },
   {
     "id": "FrontlineMap",
@@ -856,7 +896,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 2924
+    "downloadCount": 2926
   },
   {
     "id": "galaxy2_voice",
@@ -1011,7 +1051,7 @@
         }
       }
     ],
-    "downloadCount": 5174
+    "downloadCount": 5179
   },
   {
     "id": "klawshout_voice",
@@ -1077,7 +1117,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1894
+    "downloadCount": 1895
   },
   {
     "id": "LiveryManager",
@@ -2836,7 +2876,7 @@
         ]
       }
     ],
-    "downloadCount": 7038
+    "downloadCount": 7057
   },
   {
     "id": "no-autopilot-mod",
@@ -3091,7 +3131,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 5592
+    "downloadCount": 5599
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -3123,7 +3163,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 40
+    "downloadCount": 41
   },
   {
     "id": "NOBlackBox",
@@ -3584,7 +3624,7 @@
         ]
       }
     ],
-    "downloadCount": 2971
+    "downloadCount": 2979
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3635,7 +3675,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1130
+    "downloadCount": 1133
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -3856,7 +3896,7 @@
         ]
       }
     ],
-    "downloadCount": 1853
+    "downloadCount": 1861
   },
   {
     "id": "RepairProgress",
@@ -3920,7 +3960,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 118692
+    "downloadCount": 118693
   },
   {
     "id": "skyeye_voice",
@@ -4004,7 +4044,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 295
+    "downloadCount": 297
   },
   {
     "id": "SplitThrottle",
@@ -4120,7 +4160,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 724
+    "downloadCount": 725
   },
   {
     "id": "UnitCopyPaste",
@@ -4223,7 +4263,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1602
+    "downloadCount": 1604
   },
   {
     "id": "WeatherController",
@@ -4254,7 +4294,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 492
+    "downloadCount": 494
   },
   {
     "id": "WSOYappinator",
@@ -4337,7 +4377,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 495
+    "downloadCount": 496
   },
   {
     "id": "Zorduzd",

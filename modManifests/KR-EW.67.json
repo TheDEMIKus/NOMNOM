@@ -1,0 +1,32 @@
+{
+  "id": "KR-EW.67",
+  "displayName": "E/KR-67",
+  "description": "Adds the ability to host and join LAN games from the main menu without needing to execute commands via the CLI.",
+  "tags": [
+    "mod",
+    "flavor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/RudrNaik/NO-KREW-67"
+    }
+  ],
+  "authors": [
+    "RudrNaik"
+  ],
+  "githubOwner": "RudrNaik",
+  "githubRepoName": "NO-KREW-67",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "KR-EW.67.dll",
+      "version": "0.0.8",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/RudrNaik/NO-KREW-67/releases/download/v0.0.8/KR-EW.67.dll",
+      "hash": null
+    }
+  ]
+}

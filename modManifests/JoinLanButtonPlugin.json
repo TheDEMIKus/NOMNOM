@@ -1,0 +1,32 @@
+{
+  "id": "JoinLanButtonPlugin",
+  "displayName": "LAN Hosting/Join Mod",
+  "description": "Adds the ability to host and join LAN games from the main menu without needing to execute commands via the CLI.",
+  "tags": [
+    "mod",
+    "qol"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Talon-One-Fighter-Squadron/LAN"
+    }
+  ],
+  "authors": [
+    "ChadFromHighSchool"
+  ],
+  "githubOwner": "Talon-One-Fighter-Squadron",
+  "githubRepoName": "LAN",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "JoinLanButtonPlugin.dll",
+      "version": "1.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Talon-One-Fighter-Squadron/LAN/releases/download/V1.2/JoinLanButtonPlugin.dll",
+      "hash": null
+    }
+  ]
+}

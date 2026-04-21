@@ -1,7 +1,7 @@
 {
   "id": "NOWinWingBridge",
   "displayName": "Winwing Vibration Bridge",
-  "description": "This builds of NOFBBs telemetry code to bring vibration motor functionality to Winwing flight sticks",
+  "description": "This builds of NOFBBs telemetry code to bring vibration motor functionality to Winwing flight sticks. Needs Winwing SimAppPro.",
   "tags": [
     "mod",
     "qol"

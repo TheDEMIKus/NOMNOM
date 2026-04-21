@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 1585
+    "downloadCount": 1586
   },
   {
     "id": "AIAircraftLimit",
@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 11038
+    "downloadCount": 11046
   },
   {
     "id": "aryx.mig15",
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "downloadCount": 4264
+    "downloadCount": 4268
   },
   {
     "id": "AtomicFramework",
@@ -496,7 +496,7 @@
         }
       }
     ],
-    "downloadCount": 6304
+    "downloadCount": 6309
   },
   {
     "id": "bote",
@@ -622,7 +622,7 @@
         }
       }
     ],
-    "downloadCount": 9086
+    "downloadCount": 9096
   },
   {
     "id": "CameraPresets",
@@ -793,7 +793,7 @@
         "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
       }
     ],
-    "downloadCount": 64
+    "downloadCount": 65
   },
   {
     "id": "Com.Hellcat92.TargetGridRefHUD",
@@ -928,7 +928,7 @@
         ]
       }
     ],
-    "downloadCount": 488
+    "downloadCount": 489
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -983,7 +983,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 11357
+    "downloadCount": 11364
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1155,7 +1155,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 3563
+    "downloadCount": 3564
   },
   {
     "id": "galaxy2_voice",
@@ -1356,7 +1356,7 @@
         }
       }
     ],
-    "downloadCount": 7269
+    "downloadCount": 7284
   },
   {
     "id": "klawshout_voice",
@@ -1570,7 +1570,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 51
+    "downloadCount": 52
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3393,7 +3393,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 664
+    "downloadCount": 665
   },
   {
     "id": "NO_Tactitools",
@@ -3569,7 +3569,7 @@
         ]
       }
     ],
-    "downloadCount": 8222
+    "downloadCount": 8224
   },
   {
     "id": "no-autopilot-mod",
@@ -3854,7 +3854,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7272
+    "downloadCount": 7274
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4249,6 +4249,39 @@
     ]
   },
   {
+    "id": "NOWinWingBridge",
+    "displayName": "Winwing Vibration Bridge",
+    "description": "This builds of NOFBBs telemetry code to bring vibration motor functionality to Winwing flight sticks",
+    "tags": [
+      "mod",
+      "qol"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Talon-One-Fighter-Squadron/WinWing-vibration-bridge"
+      }
+    ],
+    "authors": [
+      "ChadFromHighSchool"
+    ],
+    "githubOwner": "Talon-One-Fighter-Squadron",
+    "githubRepoName": "WinWing-vibration-bridge",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NOWinWingBridge.dll",
+        "version": "1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Talon-One-Fighter-Squadron/WinWing-vibration-bridge/releases/download/V1/NOWinWingBridge.dll",
+        "hash": null
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
     "id": "NOX",
     "displayName": "Nuclear Option eXtensions",
     "description": "Various additions to Nuclear Option including marking Steam friends and a dedicated RWR display.",
@@ -4375,7 +4408,7 @@
         ]
       }
     ],
-    "downloadCount": 3799
+    "downloadCount": 3801
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4426,7 +4459,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1297
+    "downloadCount": 1298
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -4662,7 +4695,7 @@
         ]
       }
     ],
-    "downloadCount": 3682
+    "downloadCount": 3687
   },
   {
     "id": "RepairProgress",
@@ -4726,7 +4759,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119225
+    "downloadCount": 119230
   },
   {
     "id": "skyeye_voice",
@@ -4926,7 +4959,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 994
+    "downloadCount": 995
   },
   {
     "id": "UnitCopyPaste",
@@ -5038,7 +5071,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1887
+    "downloadCount": 1888
   },
   {
     "id": "WeatherController",

@@ -1,7 +1,7 @@
 {
   "id": "KR-EW.67",
   "displayName": "E/KR-67",
-  "description": "Adds the ability to host and join LAN games from the main menu without needing to execute commands via the CLI.",
+  "description": "Allows you to turn the Ifrit into an EW aircraft with mini jammers, more ARADs, a Radome, and an ECM upgrade to give you even more charge.",
   "tags": [
     "mod",
     "flavor"

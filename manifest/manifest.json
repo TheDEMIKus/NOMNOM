@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 1586
+    "downloadCount": 1587
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1868
+    "downloadCount": 1869
   },
   {
     "id": "AircraftWaypoints",
@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 11046
+    "downloadCount": 11053
   },
   {
     "id": "aryx.mig15",
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "downloadCount": 4268
+    "downloadCount": 4272
   },
   {
     "id": "AtomicFramework",
@@ -496,7 +496,7 @@
         }
       }
     ],
-    "downloadCount": 6309
+    "downloadCount": 6310
   },
   {
     "id": "bote",
@@ -622,7 +622,7 @@
         }
       }
     ],
-    "downloadCount": 9096
+    "downloadCount": 9107
   },
   {
     "id": "CameraPresets",
@@ -873,7 +873,7 @@
         ]
       }
     ],
-    "downloadCount": 80
+    "downloadCount": 81
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -983,7 +983,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 11364
+    "downloadCount": 11371
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1025,7 +1025,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 1063
+    "downloadCount": 1064
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1155,7 +1155,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 3564
+    "downloadCount": 3567
   },
   {
     "id": "galaxy2_voice",
@@ -1356,7 +1356,7 @@
         }
       }
     ],
-    "downloadCount": 7284
+    "downloadCount": 7305
   },
   {
     "id": "klawshout_voice",
@@ -1423,7 +1423,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 337
+    "downloadCount": 338
   },
   {
     "id": "LaserRocketFix",
@@ -1570,7 +1570,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 52
+    "downloadCount": 53
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3569,7 +3569,7 @@
         ]
       }
     ],
-    "downloadCount": 8224
+    "downloadCount": 8226
   },
   {
     "id": "no-autopilot-mod",
@@ -3854,7 +3854,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7274
+    "downloadCount": 7278
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -3940,7 +3940,7 @@
         ]
       }
     ],
-    "downloadCount": 2972
+    "downloadCount": 2973
   },
   {
     "id": "NOCursorOverride",
@@ -4276,10 +4276,16 @@
         "type": "plugin",
         "gameVersion": "0.33",
         "downloadUrl": "https://github.com/Talon-One-Fighter-Squadron/WinWing-vibration-bridge/releases/download/V1/NOWinWingBridge.dll",
-        "hash": null
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
       }
     ],
-    "downloadCount": 0
+    "downloadCount": 1
   },
   {
     "id": "NOX",
@@ -4695,7 +4701,7 @@
         ]
       }
     ],
-    "downloadCount": 3687
+    "downloadCount": 3692
   },
   {
     "id": "RepairProgress",
@@ -4726,7 +4732,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1551
+    "downloadCount": 1552
   },
   {
     "id": "RuntimeUnityEditor",
@@ -5071,7 +5077,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1888
+    "downloadCount": 1889
   },
   {
     "id": "WeatherController",

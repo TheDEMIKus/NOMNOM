@@ -1,0 +1,32 @@
+{
+  "id": "NOFFB2",
+  "displayName": "NOFFB2",
+  "description": "Using NOFFB by 7ep3s as a reference, reimplements FFB without needing an external executable running, and adds some other features including bumpiness.",
+  "tags": [
+    "mod",
+    "ffb"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/InfernoSuperNova/NOFFB2"
+    }
+  ],
+  "authors": [
+    "DeltaWing"
+  ],
+  "githubOwner": "InfernoSuperNova",
+  "githubRepoName": "NOFFB2",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOFFB2.zip",
+      "version": "0.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/InfernoSuperNova/NOFFB2/releases/download/0.1.0/NOFFB2.zip",
+      "hash": null
+    }
+  ]
+}

@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 1683
+    "downloadCount": 1688
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1965
+    "downloadCount": 1967
   },
   {
     "id": "AircraftWaypoints",
@@ -104,7 +104,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 1107
+    "downloadCount": 1108
   },
   {
     "id": "aryx.f16m",
@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 12156
+    "downloadCount": 12217
   },
   {
     "id": "aryx.mc260",
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "downloadCount": 2110
+    "downloadCount": 2307
   },
   {
     "id": "aryx.mig15",
@@ -415,7 +415,7 @@
         }
       }
     ],
-    "downloadCount": 4725
+    "downloadCount": 4749
   },
   {
     "id": "AtomicFramework",
@@ -565,7 +565,7 @@
         }
       }
     ],
-    "downloadCount": 6759
+    "downloadCount": 6782
   },
   {
     "id": "bote",
@@ -691,7 +691,7 @@
         }
       }
     ],
-    "downloadCount": 10046
+    "downloadCount": 10073
   },
   {
     "id": "CameraPresets",
@@ -765,7 +765,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 915
+    "downloadCount": 916
   },
   {
     "id": "com.basicGrowl",
@@ -828,7 +828,7 @@
         ]
       }
     ],
-    "downloadCount": 44
+    "downloadCount": 45
   },
   {
     "id": "Com.Hellcat92.FuelBurnEnduranceTimer",
@@ -942,7 +942,7 @@
         ]
       }
     ],
-    "downloadCount": 131
+    "downloadCount": 132
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -997,7 +997,7 @@
         ]
       }
     ],
-    "downloadCount": 568
+    "downloadCount": 572
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -1052,7 +1052,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 12281
+    "downloadCount": 12344
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1094,7 +1094,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 1143
+    "downloadCount": 1144
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1166,7 +1166,7 @@
         "downloadUrl": "https://github.com/dikkadev/NuclearUnits/releases/download/v1.2.0/NuclearUnits-v1.2.0.7z"
       }
     ],
-    "downloadCount": 77
+    "downloadCount": 78
   },
   {
     "id": "FrontlineMap",
@@ -1224,7 +1224,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 3776
+    "downloadCount": 3783
   },
   {
     "id": "galaxy2_voice",
@@ -1359,7 +1359,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 28
+    "downloadCount": 29
   },
   {
     "id": "kar",
@@ -1425,7 +1425,7 @@
         }
       }
     ],
-    "downloadCount": 8462
+    "downloadCount": 8493
   },
   {
     "id": "klawshout_voice",
@@ -1492,7 +1492,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 539
+    "downloadCount": 544
   },
   {
     "id": "LaserRocketFix",
@@ -1524,7 +1524,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2254
+    "downloadCount": 2257
   },
   {
     "id": "LiveryManager",
@@ -1639,7 +1639,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 171
+    "downloadCount": 173
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -2653,7 +2653,7 @@
         ]
       }
     ],
-    "downloadCount": 501
+    "downloadCount": 502
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -3028,7 +3028,7 @@
         ]
       }
     ],
-    "downloadCount": 448
+    "downloadCount": 449
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -3434,6 +3434,74 @@
     "downloadCount": 910
   },
   {
+    "id": "MFDCustomizer",
+    "displayName": "MFD Customizer",
+    "description": "Display custom videos, images, and live streams on the Multi-Function Displays (MFDs) of your Nuclear Option cockpit. Per-aircraft slot layouts for all 12 aircraft, multi-slot system (each physical MFD screen can hold a different source), YouTube/Twitch URL playback via bundled yt-dlp, live streams via ffmpeg, in-game edit mode, rotation support.",
+    "tags": [
+      "mod"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/MFDCustomizer"
+      }
+    ],
+    "authors": [
+      "DeltaWing"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "MFDCustomizer",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "MFDCustomizer-v1.0.4.zip",
+        "version": "1.0.4",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.4/MFDCustomizer-v1.0.4.zip",
+        "hash": null
+      },
+      {
+        "fileName": "MFDCustomizer-v1.0.3.zip",
+        "version": "1.0.3",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.3/MFDCustomizer-v1.0.3.zip",
+        "hash": null
+      },
+      {
+        "fileName": "MFDCustomizer-v1.0.2.zip",
+        "version": "1.0.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.2/MFDCustomizer-v1.0.2.zip",
+        "hash": null
+      },
+      {
+        "fileName": "MFDCustomizer-v1.0.1.zip",
+        "version": "1.0.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.1/MFDCustomizer-v1.0.1.zip",
+        "hash": null
+      },
+      {
+        "fileName": "MFDCustomizer-v1.0.0.zip",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.0/MFDCustomizer-v1.0.0.zip",
+        "hash": null
+      }
+    ],
+    "downloadCount": 48
+  },
+  {
     "id": "MFDVideoPlayer",
     "displayName": "MFD Video Player",
     "description": "Play custom videos on the MFD display in-game. Supports YouTube and Twitch streaming via yt-dlp.",
@@ -3462,7 +3530,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 694
+    "downloadCount": 697
   },
   {
     "id": "NO_Tactitools",
@@ -3638,7 +3706,7 @@
         ]
       }
     ],
-    "downloadCount": 8500
+    "downloadCount": 8506
   },
   {
     "id": "no-autopilot-mod",
@@ -3923,7 +3991,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7628
+    "downloadCount": 7637
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4182,7 +4250,7 @@
         ]
       }
     ],
-    "downloadCount": 1254
+    "downloadCount": 1255
   },
   {
     "id": "NOLiveryPlus",
@@ -4516,7 +4584,7 @@
         ]
       }
     ],
-    "downloadCount": 3986
+    "downloadCount": 3988
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4567,7 +4635,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1370
+    "downloadCount": 1375
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -4818,7 +4886,7 @@
         ]
       }
     ],
-    "downloadCount": 4659
+    "downloadCount": 4692
   },
   {
     "id": "RepairProgress",
@@ -4858,7 +4926,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1698
+    "downloadCount": 1717
   },
   {
     "id": "RuntimeUnityEditor",
@@ -4891,7 +4959,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119421
+    "downloadCount": 119428
   },
   {
     "id": "skyeye_voice",
@@ -5007,7 +5075,69 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
       }
     ],
-    "downloadCount": 128
+    "downloadCount": 129
+  },
+  {
+    "id": "Targe Estimator",
+    "displayName": "TargetEstimator",
+    "description": "Estimates the position of selected targets after datalink is lost, using dead reckoning (last known velocity × elapsed time). Aircraft get X cross marker + direction line + uncertainty circle (60s per selection). Ships get square marker + direction line. Ground vehicles get square marker snapped to nearest road point (recalculated every 2s). F10 to toggle.",
+    "tags": [
+      "mod"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/TargetEstimator"
+      }
+    ],
+    "authors": [
+      "DeltaWing"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "TargetEstimator",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "TargetEstimator.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/9138noms/TargetEstimator/releases/download/v1.0.0/TargetEstimator.dll",
+        "hash": null
+      }
+    ]
+  },
+  {
+    "id": "Targe Estimator",
+    "displayName": "TargetEstimator",
+    "description": "Estimates the position of selected targets after datalink is lost, using dead reckoning (last known velocity × elapsed time). Aircraft get X cross marker + direction line + uncertainty circle (60s per selection). Ships get square marker + direction line. Ground vehicles get square marker snapped to nearest road point (recalculated every 2s). F10 to toggle.",
+    "tags": [
+      "mod"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/TargetEstimator"
+      }
+    ],
+    "authors": [
+      "DeltaWing"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "TargetEstimator",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "TargetEstimator.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/9138noms/TargetEstimator/releases/download/v1.0.0/TargetEstimator.dll",
+        "hash": null
+      }
+    ]
   },
   {
     "id": "ThirdFaction",
@@ -5091,7 +5221,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 1061
+    "downloadCount": 1064
   },
   {
     "id": "UnitCopyPaste",
@@ -5203,7 +5333,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1977
+    "downloadCount": 1980
   },
   {
     "id": "WeatherController",
@@ -5267,7 +5397,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4235
+    "downloadCount": 4243
   },
   {
     "id": "YawOnMouse",

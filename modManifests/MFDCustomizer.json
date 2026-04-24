@@ -19,6 +19,42 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "MFDCustomizer-v1.0.4.zip",
+      "version": "1.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.4/MFDCustomizer-v1.0.4.zip",
+      "hash": null
+    },
+    {
+      "fileName": "MFDCustomizer-v1.0.3.zip",
+      "version": "1.0.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.3/MFDCustomizer-v1.0.3.zip",
+      "hash": null
+    },
+    {
+      "fileName": "MFDCustomizer-v1.0.2.zip",
+      "version": "1.0.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.2/MFDCustomizer-v1.0.2.zip",
+      "hash": null
+    },
+    {
+      "fileName": "MFDCustomizer-v1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.1/MFDCustomizer-v1.0.1.zip",
+      "hash": null
+    },
+    {
       "fileName": "MFDCustomizer-v1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -27,5 +63,6 @@
       "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.0/MFDCustomizer-v1.0.0.zip",
       "hash": null
     }
-  ]
+  ],
+  "downloadCount": 48
 }

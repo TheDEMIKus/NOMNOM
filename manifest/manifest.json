@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 1688
+    "downloadCount": 1690
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1967
+    "downloadCount": 1969
   },
   {
     "id": "AircraftWaypoints",
@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 12217
+    "downloadCount": 12234
   },
   {
     "id": "aryx.mc260",
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "downloadCount": 2307
+    "downloadCount": 2349
   },
   {
     "id": "aryx.mig15",
@@ -415,7 +415,7 @@
         }
       }
     ],
-    "downloadCount": 4749
+    "downloadCount": 4754
   },
   {
     "id": "AtomicFramework",
@@ -565,7 +565,7 @@
         }
       }
     ],
-    "downloadCount": 6782
+    "downloadCount": 6786
   },
   {
     "id": "bote",
@@ -691,7 +691,7 @@
         }
       }
     ],
-    "downloadCount": 10073
+    "downloadCount": 10079
   },
   {
     "id": "CameraPresets",
@@ -1052,7 +1052,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 12344
+    "downloadCount": 12360
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1359,7 +1359,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 29
+    "downloadCount": 30
   },
   {
     "id": "kar",
@@ -1425,7 +1425,7 @@
         }
       }
     ],
-    "downloadCount": 8493
+    "downloadCount": 8502
   },
   {
     "id": "klawshout_voice",
@@ -1492,7 +1492,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 544
+    "downloadCount": 547
   },
   {
     "id": "LaserRocketFix",
@@ -1639,7 +1639,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 173
+    "downloadCount": 174
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3499,7 +3499,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 48
+    "downloadCount": 50
   },
   {
     "id": "MFDVideoPlayer",
@@ -3706,7 +3706,7 @@
         ]
       }
     ],
-    "downloadCount": 8506
+    "downloadCount": 8507
   },
   {
     "id": "no-autopilot-mod",
@@ -3991,7 +3991,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7637
+    "downloadCount": 7640
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4023,7 +4023,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 103
+    "downloadCount": 104
   },
   {
     "id": "NOBlackBox",
@@ -4584,7 +4584,7 @@
         ]
       }
     ],
-    "downloadCount": 3988
+    "downloadCount": 3991
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4635,7 +4635,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1375
+    "downloadCount": 1376
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -4886,7 +4886,7 @@
         ]
       }
     ],
-    "downloadCount": 4692
+    "downloadCount": 4700
   },
   {
     "id": "RepairProgress",
@@ -4926,7 +4926,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1717
+    "downloadCount": 1724
   },
   {
     "id": "RuntimeUnityEditor",
@@ -4959,7 +4959,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119428
+    "downloadCount": 119429
   },
   {
     "id": "skyeye_voice",
@@ -5270,7 +5270,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 295
+    "downloadCount": 297
   },
   {
     "id": "uuvr",
@@ -5333,7 +5333,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1980
+    "downloadCount": 1982
   },
   {
     "id": "WeatherController",
@@ -5364,7 +5364,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 660
+    "downloadCount": 661
   },
   {
     "id": "WSOYappinator",
@@ -5397,7 +5397,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4243
+    "downloadCount": 4245
   },
   {
     "id": "YawOnMouse",

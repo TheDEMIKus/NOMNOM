@@ -98,7 +98,7 @@ if ($releases)
                 type = $type
                 gameVersion = $gameVersion
                 downloadUrl = $release.Assets[0].DownloadUrl
-                hash = $null #this will have to be removed later, thanks github api
+                hash = $release.Assets[0].digest #this will have to be removed later, thanks github api
             }
             if ($extends)
             {

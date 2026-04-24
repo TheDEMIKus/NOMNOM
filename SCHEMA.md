@@ -181,7 +181,7 @@ version must be the latest known version this mod is incompatible with
 Before you proceed, please ensure you familiarize yourself with the [manifest structure](#nomnom-schema), including [mod](#mod-object-properties) and [artifact](#artifact-object-properties) object properties.
 
 1. Fork the repository
-2. Create your own mod manifest(s) based on the schema described above
+2. Create your own mod manifest(s) in the modManifests directory, based on the schema described above
 3. Submit a Pull Request to ```main``` branch
 4. Github Actions Workflow will validate the Schema and Content, then declare the Pull Request allowed to merge if successful
 5. A Human will review and approve the merge if no additional issues found

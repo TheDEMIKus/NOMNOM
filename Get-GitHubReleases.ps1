@@ -56,6 +56,7 @@ function Get-GitHubReleases {
                     Size = $asset.size
                     ContentType = $asset.content_type
                     DownloadCount = $asset.download_count
+                    digest = $asset.digest
                 }
             }
             

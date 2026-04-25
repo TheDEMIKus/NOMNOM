@@ -23,7 +23,7 @@
         "fileName": "NuclearOptionActiveDecoy.dll",
         "version": "0.6.0",
         "category": "release",
-        "type": "addon",
+        "type": "plugin",
         "gameVersion": "0.33",
         "downloadUrl": "https://github.com/Modzer0/NuclearOption-ActiveDecoy/releases/download/v0.6.0/NuclearOptionActiveDecoy.dll",
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"

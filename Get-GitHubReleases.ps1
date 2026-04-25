@@ -4,7 +4,7 @@ function Get-GitHubReleases {
         [string]$Owner,
         
         [Parameter(Mandatory = $true)]
-        [string]$Repository,
+        [string]$Repository ,
         
         [Parameter(Mandatory = $false)]
         [switch]$IncludeDraft = $false,
@@ -56,6 +56,7 @@ function Get-GitHubReleases {
                     Size = $asset.size
                     ContentType = $asset.content_type
                     DownloadCount = $asset.download_count
+                    digest = $asset.digest
                 }
             }
             

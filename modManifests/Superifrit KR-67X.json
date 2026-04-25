@@ -26,8 +26,7 @@
         "type": "plugin",
         "gameVersion": "0.33",
         "downloadUrl": "https://github.com/Modzer0/NuclearOptionIfritMod/releases/download/v0.2.0/NuclearOptionIfritMod-v0.2.0.dll",
-        "hash": "sha256:9e315b0814c1933784544fad4a8a78c011f7d5664c4491b42a43a3d0279a69de"
+        "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
-    ],
-    "downloadCount": 0
+    ]
   }

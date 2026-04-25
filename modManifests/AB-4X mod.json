@@ -23,7 +23,7 @@
         "fileName": "AB4XMod_v0.5.0_QoL-Compatible.dll",
         "version": "0.5.0",
         "category": "release",
-        "type": "addon",
+        "type": "plugin",
         "gameVersion": "0.33",
         "downloadUrl": "https://github.com/Modzer0/Alykon-Ab-4X/releases/download/v0.5.0/AB4XMod_v0.5.0_QoL-Compatible.dll",
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"

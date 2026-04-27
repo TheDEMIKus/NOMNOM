@@ -42,6 +42,72 @@
     "downloadCount": 1913
   },
   {
+    "id": "AB-4X mod",
+    "displayName": "An AB-4X that doesn't feel like a V6 minivan.",
+    "description": "Responsive thrust curve until you hit the afterburners then at altitude you can pass mach 3.",
+    "tags": [
+      "mod",
+      "aircraft"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/Alykon-Ab-4X"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "Alykon-Ab-4X",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "AB4XMod_v0.5.0_QoL-Compatible.dll",
+        "version": "0.5.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/Alykon-Ab-4X/releases/download/v0.5.0/AB4XMod_v0.5.0_QoL-Compatible.dll",
+        "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
+      }
+    ],
+    "downloadCount": 74
+  },
+  {
+    "id": "ActiveDecoy",
+    "displayName": "Active Decoy",
+    "description": "Decoy for radar guided missiles like the F-35 has.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/NuclearOption-ActiveDecoy"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "NuclearOption-ActiveDecoy",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearOptionActiveDecoy.dll",
+        "version": "0.6.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/NuclearOption-ActiveDecoy/releases/download/v0.6.0/NuclearOptionActiveDecoy.dll",
+        "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
+      }
+    ],
+    "downloadCount": 153
+  },
+  {
     "id": "AIAircraftLimit",
     "displayName": "AI Aircraft Limit",
     "description": "Increase the maximum active AI aircraft per faction. Extends mission editor slider up to 128 and optionally overrides the limit at runtime.",
@@ -72,7 +138,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2139
+    "downloadCount": 2140
   },
   {
     "id": "AircraftWaypoints",
@@ -119,7 +185,7 @@
     "urls": [
       {
         "name": "info",
-        "url": "https://github.com/Aryx3D/Aryx-s-F-16M/blob/main/README.md"
+        "url": "https://github.com/Aryx3D/Aryx-F-16M/blob/main/README.md"
       },
       {
         "name": "discord",
@@ -130,7 +196,7 @@
       "Aryx"
     ],
     "githubOwner": "Aryx3D",
-    "githubRepoName": "Aryx-s-F-16M",
+    "githubRepoName": "Aryx-F-16M",
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
@@ -256,7 +322,7 @@
         "category": "release",
         "type": "addon",
         "gameVersion": "0.32",
-        "downloadUrl": "https://github.com/Aryx3D/Aryx-s-F-16M/releases/download/1.0.0/Aryx_F16M_1.00.nobp",
+        "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.0.0/Aryx_F16M_1.00.nobp",
         "hash": null,
         "extends": {
           "id": "com.nikkorap.blueprinter",
@@ -269,7 +335,7 @@
         "category": "release",
         "type": "addon",
         "gameVersion": "0.32",
-        "downloadUrl": "https://github.com/Aryx3D/Aryx-s-F-16M/releases/download/1.0.0/Aryx_F16M_1.00.nobp",
+        "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.0.0/Aryx_F16M_1.00.nobp",
         "hash": "",
         "extends": {
           "id": "com.nikkorap.blueprinter",
@@ -385,7 +451,7 @@
         }
       }
     ],
-    "downloadCount": 7159
+    "downloadCount": 7162
   },
   {
     "id": "aryx.mig15",
@@ -563,6 +629,39 @@
     "downloadCount": 1277950
   },
   {
+    "id": "BetterIR",
+    "displayName": "Better IR Missiles",
+    "description": "Gives IR missiles off boresight capability and head tracked launch.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/BetterIR"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "BetterIR",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "AIM9XMod.dll",
+        "version": "0.7.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/BetterIR/releases/download/v0.7.0/AIM9XMod.dll",
+        "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
+      }
+    ],
+    "downloadCount": 418
+  },
+  {
     "id": "blueprinter.kestrel",
     "displayName": "FQ-106 Kestrel",
     "description": "A light combat drone with superb kinematics. Features a custom model with unique flight performance and destruction, a custom MFD and damage display, 7 liveries, no G-loc, and self-destruction when the eject key is pressed.",
@@ -604,7 +703,7 @@
         }
       }
     ],
-    "downloadCount": 7764
+    "downloadCount": 7766
   },
   {
     "id": "bote",
@@ -730,7 +829,7 @@
         }
       }
     ],
-    "downloadCount": 11152
+    "downloadCount": 11154
   },
   {
     "id": "CameraPresets",
@@ -1091,7 +1190,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 14294
+    "downloadCount": 14295
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1134,6 +1233,38 @@
       }
     ],
     "downloadCount": 1239
+  },
+  {
+    "id": "DefensiveAutoTarget",
+    "displayName": "DefensiveAutoTarget",
+    "description": "Bind a button or key to drop all targets and target incoming missiles.",
+    "tags": [
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/DefensiveAutoTarget"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "DefensiveAutoTarget",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "DefensiveAutoTarget_0.5.0.dll",
+        "version": "0.5.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/DefensiveAutoTarget/releases/download/v0.5.0/DefensiveAutoTarget_0.5.0.dll",
+        "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
+      }
+    ],
+    "downloadCount": 32
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1263,7 +1394,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 4133
+    "downloadCount": 4134
   },
   {
     "id": "galaxy2_voice",
@@ -1464,7 +1595,7 @@
         }
       }
     ],
-    "downloadCount": 9756
+    "downloadCount": 9762
   },
   {
     "id": "klawshout_voice",
@@ -1563,7 +1694,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2387
+    "downloadCount": 2388
   },
   {
     "id": "LiveryManager",
@@ -4030,7 +4161,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 8104
+    "downloadCount": 8105
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4623,7 +4754,7 @@
         ]
       }
     ],
-    "downloadCount": 4291
+    "downloadCount": 4292
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4925,7 +5056,7 @@
         ]
       }
     ],
-    "downloadCount": 5814
+    "downloadCount": 5816
   },
   {
     "id": "RepairProgress",
@@ -4965,7 +5096,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 2115
+    "downloadCount": 2116
   },
   {
     "id": "RuntimeUnityEditor",
@@ -5117,6 +5248,39 @@
     "downloadCount": 146
   },
   {
+    "id": "Superifrit KR-67X",
+    "displayName": "KR-67X Super Ifrit",
+    "description": "Scramjet equipped Ifrit. Need mach 4+ above 60k feet to activate.",
+    "tags": [
+      "mod",
+      "plane"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/NuclearOptionIfritMod"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "NuclearOptionIfritMod",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearOptionIfritMod-v0.2.0.dll",
+        "version": "0.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/NuclearOptionIfritMod/releases/download/v0.2.0/NuclearOptionIfritMod-v0.2.0.dll",
+        "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
+      }
+    ],
+    "downloadCount": 611
+  },
+  {
     "id": "TargetEstimator",
     "displayName": "Target Estimator",
     "description": "Estimates the position of selected targets after datalink is lost, using dead reckoning (last known velocity x elapsed time). Aircraft get X cross marker + direction line + uncertainty circle (60s per selection). Ships get square marker + direction line. Ground vehicles get square marker snapped to nearest road point (recalculated every 2s). F10 to toggle.",
@@ -5230,7 +5394,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 1231
+    "downloadCount": 1232
   },
   {
     "id": "UnitCopyPaste",
@@ -5406,7 +5570,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4508
+    "downloadCount": 4509
   },
   {
     "id": "YawOnMouse",

@@ -20,6 +20,15 @@
   "artifacts": [
     {
       "fileName": "ThirdFaction_DEPLOY.dll",
+      "version": "1.6.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.6.1/ThirdFaction_DEPLOY.dll",
+      "hash": "sha256:863720cc2638eeddf173c8243231527f52a4e57822e78a89e98b4e8acf4d11c9"
+    },
+    {
+      "fileName": "ThirdFaction_DEPLOY.dll",
       "version": "1.6.0",
       "category": "release",
       "type": "plugin",
@@ -116,5 +125,5 @@
       "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
     }
   ],
-  "downloadCount": 1325
+  "downloadCount": 1327
 }
